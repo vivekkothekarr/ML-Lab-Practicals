@@ -10,3 +10,4 @@ The repository includes the following ML lab experiments:
 3. Logistic Regression
 4. Random Forest Algorithm
 5. Decision Tree model
+6. Artificial Neural Network
